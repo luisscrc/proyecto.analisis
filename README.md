@@ -1,2 +1,2 @@
 # proyecto.analisis
-El proyecto para no reprobar xD
+El proyecto es un punto de venta muy básico para una tienda 
